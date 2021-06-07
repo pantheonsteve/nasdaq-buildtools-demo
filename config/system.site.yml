@@ -1,7 +1,7 @@
 uuid: 2e97525f-bc0e-428d-b676-fee986d2efcc
 name: nasdaq-buildtools-demo
 mail: steve.bresnick@pantheon.io
-slogan: 'A Demo Site for nasdaq'
+slogan: 'A Demo Site for nasdaq to show buildtools'
 page:
   403: ''
   404: ''
